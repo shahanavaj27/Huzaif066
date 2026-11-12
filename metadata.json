@@ -1,0 +1,6 @@
+{
+  "name": "Optimum Drift - 3D Mascot Racer & Coin Collector",
+  "description": "Drive with the iconic Optimum mascot, collect large 3D silver infinity coins, drift around circuits, and unlock high scores in this fast-paced 3D arcade racer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
